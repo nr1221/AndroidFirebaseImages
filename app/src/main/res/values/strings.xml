@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Images</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload">upload new image</string>
+    <string name="uploaded">uploaded images</string>
+    <string name="description">Add Description</string>
+    <string name="submit">Upload</string>
+    <string name="home_fg">Home Fragment</string>
+    <string name="upload_fg">Upload Image Fragment</string>
+    <string name="list_fg">Image List Fragment</string>
+    </resources>

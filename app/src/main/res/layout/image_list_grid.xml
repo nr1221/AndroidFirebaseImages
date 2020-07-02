@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="@dimen/_125dp"
+        android:layout_height="@dimen/_125dp"
+        android:id="@+id/gridlayoutImageView"
+        android:scaleType="fitXY"
+        android:layout_margin="@dimen/_3dp"/>
+
+
+</RelativeLayout>

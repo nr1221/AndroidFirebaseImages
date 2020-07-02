@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233018135489",
+    "firebase_url": "https://animaljoker-5d841.firebaseio.com",
+    "project_id": "animaljoker-5d841",
+    "storage_bucket": "animaljoker-5d841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233018135489:android:69fbe909596c7cfde3d540",
+        "android_client_info": {
+          "package_name": "com.naren.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233018135489-otdgc7p4umtbhbv9dsqccit90vkm1du6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naren.firebase",
+            "certificate_hash": "1a37d24e1d3b3239d1a3f0bbe48607a599ec16b1"
+          }
+        },
+        {
+          "client_id": "233018135489-j1mdkv9ptasjn6q267s7tof5erss4ki7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8ua7g7P4KT6RSobD1V_3yN3LEnlZxRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233018135489-5e9mj4u3ujs3r35podu5i0n9jsinn2vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
